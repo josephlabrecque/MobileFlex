@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<s:View title="About this App" xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark">
+    <s:Label horizontalCenter="0" verticalCenter="0" verticalAlign="middle" textAlign="center" width="90%">This Apache Flex mobile application was built by Joseph Labrecque. It demonstrates the ingest of RSS within Flex and how an app can be built around that.</s:Label>
+</s:View>
